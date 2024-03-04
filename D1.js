@@ -73,4 +73,6 @@ let name2= 'Jonh'
 console.log(name1 !== name2) /*true*/
 console.log(name1===name1) /*true*/
 
+console.log(name1.toLocaleLowerCase===name2.toLocaleLowerCase)
+
 
